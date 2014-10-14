@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <!-- author ： 袁瑞强
-	time : 2014/1014 
+	time : 2014/10/14 
 	for:版权
 	-->
 <style type="text/css">
