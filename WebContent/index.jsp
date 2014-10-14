@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Insert title here</title>
+<title>首页</title>
 </head>
 <body>
-
+<jsp:forward page="fclient/findex.jsp"></jsp:forward>
 </body>
 </html>
