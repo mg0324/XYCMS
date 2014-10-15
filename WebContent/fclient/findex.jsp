@@ -6,6 +6,11 @@
 <head>
 <meta charset="UTF-8">
 <title>互动平台</title>
+<style type="text/css">
+	body {
+		margin: 0 auto;
+	}
+</style>
 </head>
 <body>
 	<jsp:include page="../public/head.jsp"></jsp:include>

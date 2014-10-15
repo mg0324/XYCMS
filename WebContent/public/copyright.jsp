@@ -5,6 +5,10 @@
 	for:版权
 	-->
 <style type="text/css">
+body{
+	width: 960px;
+	text-align: center;
+}
 a:link {
 	color: #000000;
 	text-decoration: none;
@@ -31,7 +35,7 @@ a:active {
 
 
 <div class="copyright">
-	<font size="1">
+	<font size="3">
 		襄阳市信息协会<br>
 		电话：0710-3628305 传真：0710-3628305 邮箱：xfxxcyxh@163.com<br> 		
 		地址:襄樊市襄城区檀溪路107号（市信息产业局)<br>
