@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+#user{
+	list-style: none;
+	margin:0px;
+	padding:0px;
+}
+#apDiv1 {
+	border-style:solid;
+	margin-left:851px;
+	width: 300px;
+	height:20px;
+	color:gray;
+}
+#apDiv2 {
+	background-color:lime;
+	border-style:solid;
+	top: 25px;
+	width: 960px;
+	height: 200px;
+	margin: 0 auto;
+}
+#apDiv1 li{
+	margin: 0px;
+	padding: 0px;
+	float:left;
+	text-align:center;
+}
+#apDiv1 li a{
+	margin: 0px;
+	padding: 0px;
+ 	text-decoration: none;
+ 	height: 20px;
+ 
+}
+#apDiv1 li a:hover{
+	color:red;
+	background-color: black;
+}
+#apDiv1 li a:FOCUS {
+	
+}
