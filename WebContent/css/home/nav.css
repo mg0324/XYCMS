@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+#navigation{
+	margin:0 auto;
+	padding:5px;
+	background-color:#ccc;
+	height:30px;
+	width:960px;
+}
+#menu{
+	list-style-type: none;
+	width:100%;
+	margin:0px;
+	padding:0px;
+}
+#menu li{
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height:30px;
+	width:90px;
+	line-height:30px;
+	margin-right:8px;
+	text-align: center;
+	
+}
+#menu li a{
+	margin: 0px;
+	padding: 0px;
+ 	text-decoration: none;
+ 	display:inline-block;
+ 	width:90px;
+ 	height: 30px;
+ 
+}
+#menu li a:hover{
+	color:blue;
+	background-color:#FCF9F3;
+}
