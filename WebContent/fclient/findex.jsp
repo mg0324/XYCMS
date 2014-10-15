@@ -8,10 +8,10 @@
 <title>互动平台</title>
 </head>
 <body>
-<jsp:include page="../public/head.jsp"></jsp:include>
-<jsp:include page="../public/nav.jsp"></jsp:include>
-<div id="content"></div>
-<jsp:include page="../public/link.jsp"></jsp:include>
-<jsp:include page="../public/copyright.jsp"></jsp:include>
+	<jsp:include page="../public/head.jsp"></jsp:include>
+	<jsp:include page="../public/nav.jsp"></jsp:include>
+	<div id="content"></div>
+	<jsp:include page="../public/link.jsp"></jsp:include>
+	<jsp:include page="../public/copyright.jsp"></jsp:include>
 </body>
 </html>
